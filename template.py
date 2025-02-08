@@ -25,7 +25,8 @@ list_of_files = [
     f"main.py",
     f"logs.py",
     f"exception.py",
-    f"setup.py"
+    f"setup.py",
+    f"requirements.txt"
 ]
 
 for filepath in list_of_files:
